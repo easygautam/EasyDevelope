@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#09b9a2</color>
+    <color name="colorPrimaryDark">@color/colorPrimary</color>
+    <color name="colorAccent">@color/colorPrimary</color>
+    <color name="colorWindowBackground">#f0f0f0</color>
+
+    <color name="colorTextBlack">#131313</color>
+    <color name="colorTextWhite">@color/colorWindowBackground</color>
+
+    <!--white rectangle color-->
+    <color name="colorRecWhiteBorder">#aeaeae</color>
+    <color name="colorRecWhiteGradientTop">#ffffff</color>
+    <color name="colorRecWhiteGradientBottom">#e6e6e6</color>
+
+    <!--sign in button color-->
+    <color name="colorSignInButtonText">@color/colorTextBlack</color>
+    <color name="colorRegisterButtonText">@color/colorTextWhite</color>
+
+    <!--color selector with 10% transparent-->
+    <color name="colorSelectorBackground">#1A000000</color>
+
+    <color name="colorYellowButton">#ff9f09</color>
+
+    <color name="colorBackgroundHighlightedArea"> #feffde</color>
+    <color name="colorMenuDivider">#3d3d3d</color>
+    <color name="colorMenuText">#b3b3b3</color>
+    <color name="colorReview">#787878</color>
+
+    <color name="colorErrorBackground">#DC143C</color>
+    <color name="colorTextProfileHeaderBlack">#A6131313</color>
+
+
+
+</resources>
